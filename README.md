@@ -6,6 +6,9 @@ The Counter App is a simple React application that allows you to increment and d
 
 ![](./img/count.PNG)
 
+## Live Demo Link
+![](https://counter-a-p-p.netlify.app/)
+
 ## Features
 
 - Increment and decrement the counter value.
