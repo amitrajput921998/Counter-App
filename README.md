@@ -15,4 +15,11 @@ The Counter App is a simple React application that allows you to increment and d
 - Background color changes at intervals of 10 and in reverse.
 - Beautifully styled interface.
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+
 
